@@ -4,3 +4,4 @@ filete
 nuevo
 huevo
 cerdo
+perro
